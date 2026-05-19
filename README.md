@@ -134,8 +134,6 @@ Database Architecture     ███████████████░░░
 AI Integrations           █████████░░░░░░░░░░░ OpenAI, custom pipelines
 ```
 
----
-
 
 
 ---
