@@ -2,17 +2,24 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║    ██████╗ ██╗     ███████╗██╗  ██╗███████╗ █████╗ ███╗   ██╗██████╗ ██████╗ ║
-║   ██╔═══██╗██║     ██╔════╝██║ ██╔╝██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗║
-║   ██║   ██║██║     █████╗  █████╔╝ ███████╗███████║██╔██╗ ██║██║  ██║██████╔╝║
-║   ██║   ██║██║     ██╔══╝  ██╔═██╗ ╚════██║██╔══██║██║╚██╗██║██║  ██║██╔══██╗║
-║   ╚██████╔╝███████╗███████╗██║  ██╗███████║██║  ██║██║ ╚████║██████╔╝██║  ██║║
-║    ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝║
-║                                                                               ║
-║                      S A S I U K  ·  S E N I O R  F U L L - S T A C K       ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║  ███████╗██╗   ██╗██╗     ██╗      ███████╗████████╗ █████╗  ██████╗██╗  ██╗        ║
+║  ██╔════╝██║   ██║██║     ██║      ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝        ║
+║  █████╗  ██║   ██║██║     ██║█████╗███████╗   ██║   ███████║██║     █████╔╝         ║
+║  ██╔══╝  ██║   ██║██║     ██║╚════╝╚════██║   ██║   ██╔══██║██║     ██╔═██╗         ║
+║  ██║     ╚██████╔╝███████╗███████╗ ███████║   ██║   ██║  ██║╚██████╗██║  ██╗        ║
+║  ╚═╝      ╚═════╝ ╚══════╝╚══════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝        ║
+║                                                                                      ║
+║  ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗          ║
+║  ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗         ║
+║  ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝         ║
+║  ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗         ║
+║  ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║         ║
+║  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝         ║
+║                                                                                      ║
+║                       O L E K S A N D R   S A S I U K  ·  5 +  Y E A R S           ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B8BFF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Developer+%F0%9F%9A%80;5%2B+years+%7C+10%2B+production+apps;React+%2F+Next.js+%2F+Node.js+%2F+React+Native;Building+systems+that+scale+%E2%9A%A1;Open+to+Remote+Opportunities+%F0%9F%8C%8D)
@@ -29,33 +36,27 @@
 
 ## 〔 01 〕 — About Me
 
-```typescript
-const oleksandr: Developer = {
-  name:       "Oleksandr Sasiuk",
-  role:       "Senior Full-Stack Developer",
-  experience: "5+ years",
-  delivered:  "10+ production-ready applications",
+<br/>
 
-  superpowers: [
-    "Full development lifecycle ownership",
-    "Performance optimization (up to 40% improvement)",
-    "Cross-platform mobile development",
-    "Scalable cloud architecture",
-    "Load time reduction 2–3×",
-  ],
+> **I don't just write code — I build products people actually use.**
 
-  currentStatus: "🟢 Open to remote opportunities & collaborations",
+I'm **Oleksandr Sasiuk**, a Senior Full-Stack Developer with **5+ years** of commercial experience turning complex ideas into reliable, high-performance software. I've shipped **10+ production-ready applications** across web and mobile — from architecture and API design all the way to deployment and optimization.
 
-  philosophy: `
-    From idea to launch — I design systems, build features,
-    and ship reliable products across web and mobile
-    that actually work in real-world environments.
-  `,
-};
+My work lives across the entire stack: pixel-precise React interfaces, scalable Node.js backends handling thousands of requests daily, cross-platform mobile apps for iOS and Android, and cloud infrastructure that stays up when it matters. I've integrated everything from **Stripe** and **OpenAI** to **Google Maps** and **Twilio** — and I know how to make those integrations rock-solid in production.
+
+What sets me apart isn't just technical breadth — it's **ownership**. I care about the outcome, not just the ticket. I've improved app performance by up to **40%**, cut load times **2–3×**, and consistently delivered systems that scale without drama.
+
+I thrive in async, remote environments. I communicate clearly, move with intention, and never leave a codebase worse than I found it.
+
 ```
-
-> _I prefer well-structured, scalable solutions over quick fixes._
-> _Detail-oriented. Thoughtful. Reliable. Let's build something great._
+┌──────────────────────────────────────────────────────────────┐
+│  🧠  Architectural thinking · built-to-last, not built-fast  │
+│  ⚡  Performance-obsessed · 40% faster · 2-3× load reduction │
+│  📱  Web + Mobile · one developer, full product coverage      │
+│  ☁️  Cloud-native · AWS · Docker · CI/CD done right           │
+│  🟢  Currently open to remote roles & collaborations          │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
