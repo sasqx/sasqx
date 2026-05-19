@@ -23,11 +23,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B8BFF&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Developer+%F0%9F%9A%80;5%2B+years+%7C+10%2B+production+apps;React+%2F+Next.js+%2F+Node.js+%2F+React+Native;Building+systems+that+scale+%E2%9A%A1;Open+to+Remote+Opportunities+%F0%9F%8C%8D)
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oleksandr_Sasiuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Available-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
