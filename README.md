@@ -136,17 +136,7 @@ AI Integrations           █████████░░░░░░░░░
 
 ---
 
-## 〔 05 〕 — GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b8bff&icon_color=8b8bff&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b8bff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight&hide_border=true&background=0d1117&ring=8b8bff&fire=8b8bff&currStreakLabel=8b8bff)
-
-</div>
 
 ---
 
@@ -181,7 +171,7 @@ while (project.isRunning()) {
 └─────────────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Available-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasukoleksandr17@gmail.com)
 
 </div>
 
